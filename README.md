@@ -7,6 +7,20 @@
 
 The objective of this tutorial is to learn how to incorporate Firebase into our Flutter apps. We'll be using Firebase Cloud Firestore as well as the Firebase authentication package to equip our app with a cloud-based NoSQL database and secure authentication methods. 
 
+## AFTER CLONE 
+### Set up your firebase project and download  "google-services.json" , put it under "android/app"
+## WELCOME SCREEN
+![](read_me_assets/welcome_screen.png)
+
+## LOGIN SCREEN
+![](read_me_assets/login_screen.png)
+
+## CHAT SCREEN
+![](read_me_assets/chat_screen.png)
+
+## PROFILE SCREEN
+
+![](read_me_assets/profile_screen.png)
 
 ## What you will create
 
